@@ -1,4 +1,4 @@
-name: "My Podcast Generator"
+name: "Automated Podcast Generator"
 author: "Shahinakhon Bahodirova"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
